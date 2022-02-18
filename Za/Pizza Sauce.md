@@ -17,6 +17,6 @@ Add olive oil to medium saucepan over medium heat. Cook onions, oregano, basil, 
 
 Add garlic to mixture and cook an additional 30 seconds.
 
-Add the prepared tomatoes to saucepan and allow mizutre to reach a simmer. Reduce heat and simmer until the sauce reaches a thick spreadable consistency, at least 45 mins.
+Add the prepared tomatoes to saucepan and bring a simmer. Reduce heat and simmer until the sauce reaches a thick spreadable consistency, at least 45 mins.
 
 Taste and adjust spices as needed.
