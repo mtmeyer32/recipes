@@ -1,11 +1,11 @@
-Pizza Dough
+# Pizza Dough
 
-4 cups flour (more as needed)
-1.5 cups water (more as needed)
-2 tbsp molasses (honey or combination)
-2 tsp salt
-1 tbsp olive oil
-2 packets yeast
+- 4 cups flour (more as needed)
+- 1.5 cups water (more as needed)
+- 2 tbsp molasses (honey or combination)
+- 2 tsp salt
+- 1 tbsp olive oil
+- 2 packets yeast
 
 Heat water to 140 degrees.
 

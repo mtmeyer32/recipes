@@ -1,14 +1,14 @@
-Pizza Sauce
+# Pizza Sauce
 
-28 ounce can whole tomatoes (italian style with basil leafs preferred)
-2 tbsp olive oil
-1/4 cup minced onion
-3/4 tsp dried oregano
-1 tsp dried basil
-1/2 tsp red pepper flakes
-3 cloves minced garlic (jarred is fine)
-2 tsp sugar
-1 tsp salt
+- 28 ounce can whole tomatoes (italian style with basil leafs preferred)
+- 2 tbsp olive oil
+- 1/4 cup minced onion
+- 3/4 tsp dried oregano
+- 1 tsp dried basil
+- 1/2 tsp red pepper flakes
+- 3 cloves minced garlic (jarred is fine)
+- 2 tsp sugar
+- 1 tsp salt
 
 
 Empty tomatoes into food processor, pulse until it is saucy but still has small chunks.
